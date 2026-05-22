@@ -5,9 +5,9 @@ This project combines **ResNet-50**, **Horizontal Pyramid Mapping (HPM)**, and *
 
 The framework supports multiple gait template representations including:
 
-* **GEI** — Gait Energy Image
-* **GMI** — Gait Motion Image
-* **MFEI** — Motion Flow Energy Image
+* **GEI** - Gait Energy Image
+* **GMI** - Gait Motion Image
+* **MFEI** - Motion Flow Energy Image
 
 The model is evaluated on the widely used CASIA-B Dataset dataset.
 
@@ -31,7 +31,7 @@ The model is evaluated on the widely used CASIA-B Dataset dataset.
 
 The proposed framework consists of two major stages:
 
-## Stage 1 — Gait Template Generation
+## Stage 1 - Gait Template Generation
 
 Input gait sequences are converted into template representations:
 
@@ -41,7 +41,7 @@ Input gait sequences are converted into template representations:
 
 These templates capture spatial and temporal gait information.
 
-## Stage 2 — Deep Feature Learning
+## Stage 2 - Deep Feature Learning
 
 The generated gait templates are passed through:
 
