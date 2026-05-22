@@ -247,26 +247,11 @@ Example evaluation metrics:
 
 ---
 
-# Citation
 
-If you use this work in your research, please cite:
 
-```bibtex
-@article{attention_gait_recognition,
-  title={Cross-View Human Gait Recognition Through Attention Guided Residual Learning},
-  author={Your Name},
-  journal={Journal/Conference Name},
-  year={2026}
-}
-```
 
----
 
-# License
 
-This project is licensed under the MIT License.
-
----
 
 # Acknowledgements
 
